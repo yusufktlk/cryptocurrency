@@ -35,7 +35,7 @@ function Second() {
         />
         </div>
 
-        <div className='flex justify-between mt-5 mx-4 md:mx-0 md:m-28 bg-[#1B062A] rounded-xl p-10  '>
+        <div className='flex justify-between mt-5 mx-4 md:mx-40 md:m-28 bg-[#1B062A] rounded-xl p-10  '>
            <div>
                 <h1 className='text-2xl font-bold mb-3'>New In Cryptocurrency?</h1>
                 <p className='w-2/3'>We'll tell you what cryptocurrencies are, how they work and why you should own one right now. So let's do it</p>
